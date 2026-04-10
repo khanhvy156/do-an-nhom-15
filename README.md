@@ -8,6 +8,18 @@
 </p>
 
 ## About Laravel
+---
+
+ Thông tin dự án
+Tên đề tài:Xây dựng và phát triển web bán đồ ăn nhanh  
+Nhóm:15  
+Thành viên thực hiện
+- Nguyễn Phan Khánh Vy  
+- Đoàn Trắc Giáp  
+- Phan Đăng Dũng  
+- Trần Thị Phương Thảo  
+Mô tả dự án:
+Dự án xây dựng website bán đồ ăn nhanh nhằm hỗ trợ người dùng dễ dàng lựa chọn, đặt món và thanh toán trực tuyến một cách nhanh chóng, tiện lợi. Hệ thống được phát triển với giao diện thân thiện, tích hợp các chức năng như quản lý sản phẩm, giỏ hàng, đặt hàng và theo dõi đơn hàng. Ngoài ra, website còn hỗ trợ quản trị viên trong việc quản lý dữ liệu, tối ưu quy trình bán hàng và nâng cao trải nghiệm người dùng.
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -57,3 +69,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
